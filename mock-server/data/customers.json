@@ -1,0 +1,222 @@
+[
+    {
+        "customer_id": "CUST-001",
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "phone": "555-0100",
+        "address": "123 Main St, City",
+        "date_of_birth": "1990-01-15",
+        "account_balance": 1500.50,
+        "created_at": "2023-01-01T10:00:00"
+    },
+    {
+        "customer_id": "CUST-002",
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@example.com",
+        "phone": "555-0101",
+        "address": "456 Oak Ave, Town",
+        "date_of_birth": "1985-05-20",
+        "account_balance": 2450.75,
+        "created_at": "2023-02-15T14:30:00"
+    },
+    {
+        "customer_id": "CUST-003",
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "email": "alice.j@example.com",
+        "phone": "555-0102",
+        "address": "789 Pine Rd, Village",
+        "date_of_birth": "1992-11-08",
+        "account_balance": 320.00,
+        "created_at": "2023-03-10T09:15:00"
+    },
+    {
+        "customer_id": "CUST-004",
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "email": "michael.brown@example.com",
+        "phone": "555-0103",
+        "address": "12 Elm St, City",
+        "date_of_birth": "1988-07-12",
+        "account_balance": 980.20,
+        "created_at": "2023-04-01T11:20:00"
+    },
+    {
+        "customer_id": "CUST-005",
+        "first_name": "Emily",
+        "last_name": "Davis",
+        "email": "emily.davis@example.com",
+        "phone": "555-0104",
+        "address": "34 Maple Ave, Town",
+        "date_of_birth": "1995-03-25",
+        "account_balance": 2100.00,
+        "created_at": "2023-04-05T16:45:00"
+    },
+    {
+        "customer_id": "CUST-006",
+        "first_name": "David",
+        "last_name": "Wilson",
+        "email": "david.w@example.com",
+        "phone": "555-0105",
+        "address": "56 Cedar Rd, Village",
+        "date_of_birth": "1982-09-18",
+        "account_balance": 540.75,
+        "created_at": "2023-04-10T10:10:00"
+    },
+    {
+        "customer_id": "CUST-007",
+        "first_name": "Sophia",
+        "last_name": "Martinez",
+        "email": "sophia.m@example.com",
+        "phone": "555-0106",
+        "address": "78 Birch St, City",
+        "date_of_birth": "1998-12-01",
+        "account_balance": 1750.00,
+        "created_at": "2023-04-15T13:00:00"
+    },
+    {
+        "customer_id": "CUST-008",
+        "first_name": "James",
+        "last_name": "Anderson",
+        "email": "james.a@example.com",
+        "phone": "555-0107",
+        "address": "90 Walnut Ave, Town",
+        "date_of_birth": "1991-06-22",
+        "account_balance": 860.30,
+        "created_at": "2023-04-20T09:40:00"
+    },
+    {
+        "customer_id": "CUST-009",
+        "first_name": "Olivia",
+        "last_name": "Thomas",
+        "email": "olivia.t@example.com",
+        "phone": "555-0108",
+        "address": "102 Ash Rd, Village",
+        "date_of_birth": "1993-08-14",
+        "account_balance": 1200.00,
+        "created_at": "2023-04-25T15:25:00"
+    },
+    {
+        "customer_id": "CUST-010",
+        "first_name": "Daniel",
+        "last_name": "Taylor",
+        "email": "daniel.t@example.com",
+        "phone": "555-0109",
+        "address": "114 Cherry St, City",
+        "date_of_birth": "1987-02-11",
+        "account_balance": 300.90,
+        "created_at": "2023-05-01T12:00:00"
+    },
+    {
+        "customer_id": "CUST-011",
+        "first_name": "Isabella",
+        "last_name": "Moore",
+        "email": "isabella.m@example.com",
+        "phone": "555-0110",
+        "address": "126 Poplar Ave, Town",
+        "date_of_birth": "1996-04-19",
+        "account_balance": 4500.00,
+        "created_at": "2023-05-03T10:30:00"
+    },
+    {
+        "customer_id": "CUST-012",
+        "first_name": "Matthew",
+        "last_name": "Jackson",
+        "email": "matthew.j@example.com",
+        "phone": "555-0111",
+        "address": "138 Spruce Rd, Village",
+        "date_of_birth": "1989-10-05",
+        "account_balance": 760.45,
+        "created_at": "2023-05-05T14:10:00"
+    },
+    {
+        "customer_id": "CUST-013",
+        "first_name": "Mia",
+        "last_name": "White",
+        "email": "mia.w@example.com",
+        "phone": "555-0112",
+        "address": "150 Fir St, City",
+        "date_of_birth": "2000-01-30",
+        "account_balance": 980.00,
+        "created_at": "2023-05-07T11:50:00"
+    },
+    {
+        "customer_id": "CUST-014",
+        "first_name": "Ethan",
+        "last_name": "Harris",
+        "email": "ethan.h@example.com",
+        "phone": "555-0113",
+        "address": "162 Willow Ave, Town",
+        "date_of_birth": "1994-07-09",
+        "account_balance": 150.25,
+        "created_at": "2023-05-10T16:20:00"
+    },
+    {
+        "customer_id": "CUST-015",
+        "first_name": "Ava",
+        "last_name": "Clark",
+        "email": "ava.c@example.com",
+        "phone": "555-0114",
+        "address": "174 Redwood Rd, Village",
+        "date_of_birth": "1997-03-03",
+        "account_balance": 2220.60,
+        "created_at": "2023-05-12T09:05:00"
+    },
+    {
+        "customer_id": "CUST-016",
+        "first_name": "Liam",
+        "last_name": "Lewis",
+        "email": "liam.l@example.com",
+        "phone": "555-0115",
+        "address": "186 Cypress St, City",
+        "date_of_birth": "1986-11-21",
+        "account_balance": 1340.00,
+        "created_at": "2023-05-15T13:45:00"
+    },
+    {
+        "customer_id": "CUST-017",
+        "first_name": "Charlotte",
+        "last_name": "Robinson",
+        "email": "charlotte.r@example.com",
+        "phone": "555-0116",
+        "address": "198 Palm Ave, Town",
+        "date_of_birth": "1999-05-17",
+        "account_balance": 890.75,
+        "created_at": "2023-05-18T15:15:00"
+    },
+    {
+        "customer_id": "CUST-018",
+        "first_name": "Noah",
+        "last_name": "Walker",
+        "email": "noah.w@example.com",
+        "phone": "555-0117",
+        "address": "210 Olive Rd, Village",
+        "date_of_birth": "1990-09-09",
+        "account_balance": 670.00,
+        "created_at": "2023-05-20T10:10:00"
+    },
+    {
+        "customer_id": "CUST-019",
+        "first_name": "Amelia",
+        "last_name": "Hall",
+        "email": "amelia.h@example.com",
+        "phone": "555-0118",
+        "address": "222 Peach St, City",
+        "date_of_birth": "1993-12-24",
+        "account_balance": 3000.00,
+        "created_at": "2023-05-22T14:55:00"
+    },
+    {
+        "customer_id": "CUST-020",
+        "first_name": "Lucas",
+        "last_name": "Allen",
+        "email": "lucas.a@example.com",
+        "phone": "555-0119",
+        "address": "234 Plum Ave, Town",
+        "date_of_birth": "1984-06-06",
+        "account_balance": 410.90,
+        "created_at": "2023-05-25T12:25:00"
+    }
+]
